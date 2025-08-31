@@ -28,8 +28,6 @@ This repository serves as a home for the **Aionic research whitepaper** and rela
 
 ## Whitepaper
 
-📄 [Download the Research Whitepaper (PDF)](./Aionic_Research_Whitepaper_with_Diagrams.pdf)  
-
 The paper describes each component in detail:  
 - Execution Layer (EVM-compatible + stateless validation)  
 - Recursive Storage Objects (RSOs)  
