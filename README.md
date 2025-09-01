@@ -45,6 +45,22 @@ The paper describes each component in detail:
 This repository and its whitepaper serve as a **public timestamp of prior art** for the architectural concepts described herein.  
 The intent is to contribute to open blockchain research and provide a documented reference for these designs.  
 
+## 📚 Citation
+
+If you reference this research, please cite as:
+
+**APA style**  
+Barnhart, K. (2025). *Aionic: A Research Proposal for a Provable, Sustainable, and Credibly Neutral Blockchain.* GitHub. Retrieved from [https://github.com/xkal3b/aionic-research-paper](https://github.com/xkal3b/aionic-research-paper)
+
+**BibTeX**
+```bibtex
+@misc{aionic2025,
+  author       = {Barnhart, Kaleb},
+  title        = {Aionic: A Research Proposal for a Provable, Sustainable, and Credibly Neutral Blockchain},
+  year         = {2025},
+  url          = {https://github.com/xkal3b/aionic-research-paper},
+  note         = {Research whitepaper on perpetual, provable Layer 1 blockchain design}
+}
 ---
 
 ## Contact
