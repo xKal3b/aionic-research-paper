@@ -52,16 +52,9 @@ If you reference this research, please cite as:
 **APA style**  
 Barnhart, K. (2025). *Aionic: A Research Proposal for a Provable, Sustainable, and Credibly Neutral Blockchain.* GitHub. Retrieved from [https://github.com/xkal3b/aionic-research-paper](https://github.com/xkal3b/aionic-research-paper)
 
-**BibTeX**
-```bibtex
-@misc{aionic2025,
-  author       = {Barnhart, Kaleb},
-  title        = {Aionic: A Research Proposal for a Provable, Sustainable, and Credibly Neutral Blockchain},
-  year         = {2025},
-  url          = {https://github.com/xkal3b/aionic-research-paper},
-  note         = {Research whitepaper on perpetual, provable Layer 1 blockchain design}
-}
+
 ---
+
 
 ## Contact
 
